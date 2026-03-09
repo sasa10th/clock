@@ -1,2 +1,2 @@
 # clock
-https://www.devs.kr/
+https://clock.devs.kr/
